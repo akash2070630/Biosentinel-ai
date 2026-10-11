@@ -1,0 +1,6 @@
+{
+  "name": "BioSentinel AI",
+  "description": "Intelligent endangered species detection, individual wildlife re-identification, behavioral anomaly monitoring, and conservation intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
